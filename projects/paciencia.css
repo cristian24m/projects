@@ -1,3 +1,19 @@
+body{
+  font-family:cursive
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ttxx {
   position: fixed;
   right: 0;
@@ -7,12 +23,14 @@
 }
 
 #gtxx {
+  
+  border: 1px black;
 }
 
 .lprofi {
 
 }
 
-#center{
+#center{ 
     text-align: center;
 }
