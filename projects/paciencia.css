@@ -23,12 +23,20 @@ body{
 }
 
 #gtxx {
-  
+  margin: 5px auto;
   border: 1px black;
 }
 
-.lprofi {
-
+.lprofi
+{
+  color: red;
+  text-decoration: none;
+}
+.lprofi:active {
+  color: blue;
+}
+.lprofi:visited{
+  color:green
 }
 
 #center{ 
